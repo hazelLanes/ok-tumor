@@ -1,0 +1,12 @@
+---
+development:
+  dialect: "sqlite3"
+  database: /home/hazel/src/go/src/github.com/hazelLanes/ok_tumor_ok_tumor_development.sqlite
+
+test:
+  dialect: "sqlite3"
+  database: /home/hazel/src/go/src/github.com/hazelLanes/ok_tumor_ok_tumor_test.sqlite
+
+production:
+  dialect: "sqlite3"
+  database: /home/hazel/src/go/src/github.com/hazelLanes/ok_tumor_ok_tumor_production.sqlite
