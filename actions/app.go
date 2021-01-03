@@ -11,7 +11,7 @@ import (
 	csrf "github.com/gobuffalo/mw-csrf"
 	i18n "github.com/gobuffalo/mw-i18n"
 	"github.com/gobuffalo/packr/v2"
-	"github.com/hazelLanes/ok_tumor/models"
+	"github.com/hazelLanes/ok-tumor/models"
 )
 
 // ENV is used to help switch settings based on where the

@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/hazelLanes/ok_tumor/actions"
+	"github.com/hazelLanes/ok-tumor/actions"
 )
 
 // main is the starting point for your Buffalo application.
